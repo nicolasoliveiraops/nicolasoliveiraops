@@ -23,7 +23,6 @@ Uma pequena introdução sobre mim: Sou um profissional entusiasmado e determina
  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%230d1117.svg?style=for-the-badge&logo=GitHub"/>
  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-%230d1117.svg?style=for-the-badge&logo=Adobe Photoshop"/>
  <img alt="Figma" src="https://img.shields.io/badge/Figma-%230d1117.svg?style=for-the-badge&logo=Figma"/>
- <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%230d1117.svg?style=for-the-badge&logo=Netlify"/>
  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%230d1117.svg?style=for-the-badge&logo=Vercel"/>
 </p>
  
