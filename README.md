@@ -39,4 +39,4 @@ These projects are from my earlier HTML and CSS studies with Alura, Rocketseat, 
 
 ## Languages
 
-Brazilian Portuguese (native). English: EF SET C1 overall, with strong reading skills.
+Brazilian Portuguese (native). English: intermediate.
