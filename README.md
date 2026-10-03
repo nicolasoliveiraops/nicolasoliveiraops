@@ -1,37 +1,40 @@
-## Olá, Sou o Nicolas! 
-<p>Já fui desenvolvedor, e atualmente atuo no mercado de marketing digital, onde eu me encontrei ;).</p>
+# Hi, I'm Nicolas Oliveira
 
-<p align="left">
-<a href="https://github.com/thedevnicolas">
-<img width="56%" src="https://github-readme-stats.vercel.app/api?username=thedevnicolas&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="44%" src="http://github-readme-streak-stats.herokuapp.com?user=thedevnicolas&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
- <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedevnicolas&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="57%" src="https://activity-graph.herokuapp.com/graph?username=thedevnicolas&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" /></a>
-</p>
+**AI Evaluation & Operations · E-commerce Operations · Shopify**
 
-## about.me
-<p align="justify">
-Uma pequena introdução sobre mim: Sou um profissional entusiasmado e determinado, com uma paixão pelo crescimento na área digital. Com um sólido conhecimento em marketing digital e uma afinidade especial por tecnologia, estou sempre pronto para enfrentar novos desafios e expandir minhas habilidades nesse campo dinâmico. Sou um grande entusiasta quando se trata de livros, músicas e arte, e muito fã de tecnologia e jogos.
-</p>
+I'm a Brazilian professional with hands-on experience in AI support operations, response quality review, technical support, and running a Shopify business. I'm looking for international remote opportunities in AI Evaluation, AI Operations, Data Annotation, and e-commerce operations.
 
- 
+## Relevant experience
 
-## techs && skills
-<p align="justify"><a href="https://github.com/thedevnicolas">
- <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
- <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
- <img alt="CSS" src="https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
- <img alt="Git" src="https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git"/>
- <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%230d1117.svg?style=for-the-badge&logo=GitHub"/>
- <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-%230d1117.svg?style=for-the-badge&logo=Adobe Photoshop"/>
- <img alt="Figma" src="https://img.shields.io/badge/Figma-%230d1117.svg?style=for-the-badge&logo=Figma"/>
- <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%230d1117.svg?style=for-the-badge&logo=Vercel"/>
-</p>
- 
-## social && contact
-<p align="justify">
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
-<a href="mailto:nicolasoliveira3002@gmail.com"><img src="https://img.shields.io/badge/gmail-%230d1117.svg?style=for-the-badge&logo=gmail&logoColor=0077B5"/></a>
-</p>
+- **AI operations and evaluation:** Configured support agents using Chatbase and other AI tools, tested their behavior, and reviewed generated responses for accuracy, quality, and consistency.
+- **Knowledge bases and quality assurance:** Organized source content and maintained knowledge bases to improve the reliability of AI support responses.
+- **E-commerce operations:** Built and independently managed a Shopify business, covering customer experience, suppliers, logistics, marketing, and sales.
+- **Shopify technical support:** Diagnosed theme issues, worked with CSS and Shopify Liquid, and handled theme customizations and store configurations.
 
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/51abf316f3774cd974d0b20c766649d2.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+My experience in response review, quality assurance, and organizing source content is relevant to data annotation work. I'm interested in applying those skills to projects with clear guidelines and quality standards.
 
-<p>See you!</p>
+## Tools and skills
+
+Chatbase · Shopify · HTML & CSS · Shopify Liquid · Git & GitHub · SEO · Meta Ads · Google Ads · Photoshop
+
+## Learning projects
+
+The repositories below come from my earlier front-end studies with Alura, Rocketseat, and video tutorials. They document my learning in HTML, CSS, layout, and responsive design. They are course exercises, not client work or production applications.
+
+| Project | Study context |
+| --- | --- |
+| [Responsive Login Page](https://github.com/nicolasoliveiraops/Login-page-responsiva) | Video tutorial; forms, Flexbox, and media queries |
+| [Social Tree](https://github.com/nicolasoliveiraops/projeto-social-tree) | Rocketseat Discover; links page and CSS layout |
+| [RocketCoffee](https://github.com/nicolasoliveiraops/projeto-rocket.coffee) | Rocketseat Explorer Marathon 3.0; digital menu layout |
+| [NLW eSports](https://github.com/nicolasoliveiraops/nlw-esports-mypage) | Rocketseat NLW eSports; HTML, CSS, and animations |
+| [Alura Plus](https://github.com/nicolasoliveiraops/projeto-alura-plus) | Alura HTML & CSS coursework; landing page layout |
+| [Fruta & Fruto](https://github.com/nicolasoliveiraops/projeto-arquitetura-css-responsivo) | Alura front-end coursework; CSS organization and responsive design |
+
+## Languages
+
+- Brazilian Portuguese: native.
+- English: advanced overall (EF SET C1), with strong reading skills.
+
+## Connect
+
+You can find my public work here on [GitHub](https://github.com/nicolasoliveiraops).
