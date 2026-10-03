@@ -24,7 +24,6 @@ The repositories below come from my earlier front-end studies with Alura, Rocket
 | Project | Study context |
 | --- | --- |
 | [Responsive Login Page](https://github.com/nicolasoliveiraops/Login-page-responsiva) | Video tutorial; forms, Flexbox, and media queries |
-| [Social Tree](https://github.com/nicolasoliveiraops/projeto-social-tree) | Rocketseat Discover; links page and CSS layout |
 | [RocketCoffee](https://github.com/nicolasoliveiraops/projeto-rocket.coffee) | Rocketseat Explorer Marathon 3.0; digital menu layout |
 | [NLW eSports](https://github.com/nicolasoliveiraops/nlw-esports-mypage) | Rocketseat NLW eSports; HTML, CSS, and animations |
 | [Alura Plus](https://github.com/nicolasoliveiraops/projeto-alura-plus) | Alura HTML & CSS coursework; landing page layout |
