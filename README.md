@@ -1,14 +1,25 @@
-# Hi, I'm Nicolas
+# Hi, I'm Nicolas Oliveira
 
-I'm based in Brazil. I've worked with AI support agents and Shopify technical support, and I've also run my own online store.
+I'm based in Brazil, with experience leading Shopify technical support, building and running an e-commerce business, and working with AI support agents.
 
-I'm looking for remote roles in AI operations, AI evaluation, data annotation, and e-commerce.
+I'm looking for remote roles in AI operations, AI evaluation, data annotation, and e-commerce operations.
 
-## What I've worked on
+## Experience
 
-For AI support, I set up agents in Chatbase and organized the content in their knowledge bases. I also tested the agents and reviewed their answers for accuracy, quality, and consistency.
+### Manfors Watches — Founder & E-commerce Manager
+*June 2024 – June 2026*
 
-In Shopify support, I helped customers troubleshoot theme issues and made changes with CSS and Liquid. I also ran my own Shopify store, taking care of suppliers, logistics, customer support, and marketing.
+I built and independently managed a Shopify business that reached **14,000+ orders**. I handled customer experience, suppliers, logistics, marketing, and sales. I also managed Meta Ads and Google Ads, SEO, product research, copywriting, and performance analysis.
+
+### Sabino Vision — Technical Support Lead
+*November 2023 – October 2024*
+
+I led technical support for the company's Shopify theme. My work included diagnosing and fixing theme issues with CSS and Liquid, making customizations, and configuring stores around customer needs. The average first response was under a minute, and most cases were resolved within 10 minutes.
+
+### TheMembers — Back Office Analyst
+*January 2024 – August 2025*
+
+I configured and implemented AI support agents using Chatbase and other AI tools. I structured and maintained their knowledge bases, prepared the source content, and tested the agents. I reviewed generated responses for accuracy, quality, and consistency across large volumes of digital content.
 
 ## Tools
 
