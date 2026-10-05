@@ -23,7 +23,7 @@ I led technical support for the company's Shopify theme. My work included diagno
 
 ## Tools
 
-Chatbase, Shopify, Liquid, HTML/CSS, Git/GitHub, SEO, Meta Ads, Google Ads, and Photoshop.
+HTML/CSS, Shopify, SEO, Meta and Google Ads, and Photoshop.
 
 ## Learning projects
 
