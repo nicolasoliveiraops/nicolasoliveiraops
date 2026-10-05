@@ -25,18 +25,6 @@ I led technical support for the company's Shopify theme. My work included diagno
 
 HTML/CSS, Shopify, SEO, Meta and Google Ads, and Photoshop.
 
-## Learning projects
-
-These projects are from my earlier HTML and CSS studies with Alura, Rocketseat, and video tutorials. They're course exercises, kept here as part of my learning history.
-
-| Project | Course or tutorial |
-| --- | --- |
-| [Responsive Login Page](https://github.com/nicolasoliveiraops/Login-page-responsiva) | Video tutorial |
-| [Alura Plus](https://github.com/nicolasoliveiraops/projeto-alura-plus) | Alura HTML and CSS coursework |
-| [Fruta & Fruto](https://github.com/nicolasoliveiraops/projeto-arquitetura-css-responsivo) | Alura front-end coursework |
-| [RocketCoffee](https://github.com/nicolasoliveiraops/projeto-rocket.coffee) | Rocketseat Explorer Marathon 3.0 |
-| [NLW eSports](https://github.com/nicolasoliveiraops/nlw-esports-mypage) | Rocketseat NLW eSports |
-
 ## Languages
 
 Brazilian Portuguese (native). English: intermediate.
